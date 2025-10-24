@@ -38,7 +38,7 @@ npm install
 
 # 3. Start the React app
 npm run dev
-(Frontend will open on http://localhost:5173 or similar)
+(Frontend will open on http://localhost:3000 or similar)
 
 ✅ Task 2: TO-DO LIST
 A full-stack To-Do list app with filtering.
@@ -55,7 +55,7 @@ npm install
 
 # 3. Start the server
 node app.js
-(Backend will run on http://localhost:4000)
+(Backend will run on http://localhost:5000)
 
 Terminal 2: Run the Frontend
 
@@ -69,7 +69,7 @@ npm install
 
 # 3. Start the React app
 npm run dev
-(Frontend will open on http://localhost:5173 or similar)
+(Frontend will open on http://localhost:3000 or similar)
 
 ✅ Task 3: AUTHENTICATION SYSTEM
 A backend system for user registration and login using JWT and bcrypt.
@@ -100,4 +100,4 @@ npm install
 
 # 3. Start the React app
 npm run dev
-(Frontend will open on http://localhost:5173 or similar)
+(Frontend will open on http://localhost:3000 or similar)
